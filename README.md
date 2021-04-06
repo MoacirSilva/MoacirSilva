@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoacirSilva
+- 👋 Hi, I’m Moacir Silva
 - 👀 I’m interested in .net core, angular and vue.js
 - 🌱 I’m currently learning .net core
 
