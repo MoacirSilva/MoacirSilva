@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Moacir Silva
-- 👀 I’m interested in .net core, angular and vue.js
-- 🌱 I’m currently learning .net core
+
 
 <!---
 MoacirSilva/MoacirSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
